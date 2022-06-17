@@ -3543,7 +3543,7 @@
     "compare-versions" "^3.4.0"
     "invariant" "^2.2.4"
 
-"expo@*", "expo@44.0.6":
+"expo@*", "expo@^44.0.6", "expo@44.0.6":
   "integrity" "sha512-iHnra6uD5kXZgdSUrvxZ3sLjg1FtgtA4p4uaSKVQ39IaMHJBngo8RKqFUJ+BF2kPDpBLJ251eLlhgYUlnAyuag=="
   "resolved" "https://registry.npmjs.org/expo/-/expo-44.0.6.tgz"
   "version" "44.0.6"
